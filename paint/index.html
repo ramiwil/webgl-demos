@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title> ASG 1 </title>
+        <script src="asg1.js"></script>
+        <script src="Point.js"></script>
+        <script src="Triangle.js"></script>
+        <script src="Circle.js"></script>
+        <script src="TriangleArt.js"></script>
+
+
+        <script src="lib/cuon-utils.js"></script>
+        <script src="lib/webgl-debug.js"></script>
+        <script src="lib/webgl-utils.js"></script>
+    </head>
+
+    <body onload="main()">
+        <canvas id="webgl" width="400" height="400">
+            Please usa browser that supports "canvas".
+        </canvas>
+
+        <img src="image.png" alt="mufasa" width="400" height="400"></img>
+
+        <p id="numdot">XXX</p>
+
+        <p>
+        <button type="button" id="clearButton">Clear</button>
+        <p>
+        <button type="button" id="pointButton">Point</button>
+        <button type="button" id="triangleButton">Triangle</button>
+        <button type="button" id="circleButton">Circle</button>
+        <button type="button" id="ironMan">Mufasa (Picture)</button>
+
+        <p>
+        Red <input type="range" min="0" max = "100" class="slider" value="100" id="redSlide">
+        <p>
+        Green <input type="range" min="0" max = "100" class="slider" value="100" id="greenSlide">
+        <p>
+        Blue <input type="range" min="0" max = "100" class="slider" value="100" id="blueSlide">
+        <p>
+        Size <input type="range" min="5" max = "50" class="slider" value="0" id="sizeSlide">
+        <p>
+        Circle Segments <input type="range" min="3" max="20" class="slider" value="0" id="segmentSlide">
+        <p> Awesomeness: You can toggle between mirroring across X axis or Y axis or both!</p>
+        Mirror Mode across Y <button type="button" id="mirrorY">Toggle</button>
+        <p>
+        Mirror Mode across X <button type="button" id="mirrorX">Toggle</button>
+
+    </body>
+</html>

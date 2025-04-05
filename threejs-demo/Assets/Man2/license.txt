@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cheering2
+* source:	https://sketchfab.com/3d-models/cheering2-5acee39a2e3245b18e55f642bb7ca226
+* author:	pradeepaanandhi5420 (https://sketchfab.com/pradeepaanandhi5420)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cheering2" (https://sketchfab.com/3d-models/cheering2-5acee39a2e3245b18e55f642bb7ca226) by pradeepaanandhi5420 (https://sketchfab.com/pradeepaanandhi5420) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

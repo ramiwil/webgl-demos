@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title> ASG 1 </title>
+        <script src="BlockyAnimal.js"></script>
+        <script src="Point.js"></script>
+        <script src="Triangle.js"></script>
+        <script src="Circle.js"></script>
+        <script src="Cube.js"></script>
+
+
+        <script src="lib/cuon-utils.js"></script>
+        <script src="lib/webgl-debug.js"></script>
+        <script src="lib/webgl-utils.js"></script>
+        <script src="lib/cuon-matrix-cse160.js"></script>
+    </head>
+
+    <body onload="main()">
+        <canvas id="webgl" width="400" height="400">
+            Please usa browser that supports "canvas".
+        </canvas>
+
+
+        <p id="numdot">XXX</p>
+        Camera Angle <input type="range" min="0" max = "180" class="slider" value="45" id="angleSlide">
+        <p>
+        Tail 1 <input type="range" min="-45" max = "45" class="slider" value="45" id="tail1Slide">
+        Animation:<button type="button" id="tail1AnimationON">ON</button>
+        <button type="button" id="tail1AnimationOFF">OFF</button>
+        <p>
+        Tail 2 <input type="range" min="-45" max = "45" class="slider" value="45" id="tail2Slide">
+        Animation:<button type="button" id="tail2AnimationON">ON</button>
+        <button type="button" id="tail2AnimationOFF">OFF</button>
+        <p>
+        Tail 3 <input type="range" min="-45" max = "45" class="slider" value="45" id="tail3Slide">
+        Animation:<button type="button" id="tail3AnimationON">ON</button>
+        <button type="button" id="tail3AnimationOFF">OFF</button>
+        <p>
+
+        <p>
+        Eyes Animation:<button type="button" id="eyesAnimationON">ON</button>
+        <button type="button" id="eyesAnimationOFF">OFF</button>
+
+        <p>
+        Ears Animation:<button type="button" id="earAnimationON">ON</button>
+        <button type="button" id="earAnimationOFF">OFF</button>
+
+    </body>
+</html>

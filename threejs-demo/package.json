@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@types/dat.gui": "^0.7.7"
+  }
+}

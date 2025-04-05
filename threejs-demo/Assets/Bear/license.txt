@@ -1,0 +1,11 @@
+Model Information:
+* title:	Polar bear dancing
+* source:	https://sketchfab.com/3d-models/polar-bear-dancing-86129e13e55b4abcbf19a9e84bad52a1
+* author:	monty (https://sketchfab.com/monty804)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Polar bear dancing" (https://sketchfab.com/3d-models/polar-bear-dancing-86129e13e55b4abcbf19a9e84bad52a1) by monty (https://sketchfab.com/monty804) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
